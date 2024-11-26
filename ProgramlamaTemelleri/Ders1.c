@@ -15,5 +15,6 @@ main()
 	scanf("%d",&y);
 	alan=x*y;
 	cevre=2*(x+y);
-	printf("Cevre = %d\nAlan = %d",cevre,alan);
+	printf("Cevre = %d\nAlan = %d\n",cevre,alan);
+	scanf("%char");
 }
