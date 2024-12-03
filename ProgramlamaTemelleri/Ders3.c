@@ -79,6 +79,7 @@ main()
 	
 	switch(secim)
 	{
+		case 'a':
 		case 'A':
 			printf("Karenin kenar uzunlugunu giriniz :");
 			scanf("%f",&uzunluk);
@@ -96,6 +97,7 @@ main()
 					break;	
 			}
 			break;
+		case 'b':	
 		case 'B':
 			printf("Dairenin yaricap uzunlugunu giriniz :");
 			scanf("%f",&uzunluk);
