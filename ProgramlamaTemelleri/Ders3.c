@@ -20,8 +20,108 @@ main ()
 }
 */
 //-----------------------------------------------------------------------------
-
+//Geçen haftanýn konusu switch blogu ile yazmak
+/*
+#include <stdio.h>
+main()
+{	
+	int secim;
+	float sayi1,sayi2,sonuc;	
+	printf("1-Toplama\n2-Cikarma\n3-Carpma\n4-Bolme\nLutfen Bir islem Seciniz[1-2-3-4]:\n");
+	scanf("%d",&secim);
+	printf("1. Sayiyi Giriniz :");
+	scanf("%f",&sayi1);
+	printf("2. Sayiyi Giriniz :");
+	scanf("%f",&sayi2);	
+	
+	switch(secim)
+	{
+		case 1:
+			sonuc=sayi1+sayi2;	
+			printf("%f + %f = %f",sayi1,sayi2,sonuc);
+			break;
+		case 2:
+			sonuc = sayi1 - sayi2;
+			printf("%.0f - %.0f = %.0f",sayi1,sayi2,sonuc);
+			break;
+		case 3:
+			sonuc = sayi1 * sayi2;
+			printf("%.0f * %.0f = %.0f",sayi1,sayi2,sonuc);
+			break;
+		case 4:
+			sonuc = sayi1 / sayi2;
+			printf("%.0f / %.0f = %.2f",sayi1,sayi2,sonuc);			
+			break;
+		default:
+			printf("Hatali Islem Secimi");
+			break;
+	}
+	
+}
+*/
 //-----------------------------------------------------------------------------
+/*Klavyeden A veya B harfine basýlarak kare yada daire secimi yapilacak,
+yapýlan secime gore kenar uzunlugu yada yaricap bilgisi girilecek,
+1 veya 2 ye basilarak cevre yada alan secimi yapilacaki yapilan secimlere gore
+ilgili seklin ilgili hesabi yapilarak ekrana yazdirilacak. */
+
+/*
+#include <stdio.h>
+
+main()
+{
+	char secim;
+	int islem;
+	float uzunluk,pi=3.14,sonuc;
+	
+	printf("A-Kare\nB-Daire\nLutfen Islem Yapilacak Sekli Seciniz [A/B] -> ");
+	scanf("%c",&secim);
+	
+	switch(secim)
+	{
+		case 'A':
+			printf("Karenin kenar uzunlugunu giriniz :");
+			scanf("%f",&uzunluk);
+			printf("1-Cevre\n2-Alan\nGerceklestirmek istediginiz islemi seciniz :");
+			scanf("%d",&islem);			
+			switch(islem)
+			{
+				case 1:
+					sonuc = 4*uzunluk;
+					printf("Karenin Cevresi = %.0f",sonuc);
+					break;
+				case 2:
+					sonuc = uzunluk*uzunluk;
+					printf("Karenin alani = %.0f",sonuc);
+					break;	
+			}
+			break;
+		case 'B':
+			printf("Dairenin yaricap uzunlugunu giriniz :");
+			scanf("%f",&uzunluk);
+			printf("1-Cevre\n2-Alan\nGerceklestirmek istediginiz islemi seciniz :");
+			scanf("%d",&islem);			
+			switch(islem)
+			{
+				case 1:
+					sonuc = 2*pi*uzunluk;
+					printf("Dairenin Cevresi = %.0f",sonuc);
+					break;
+				case 2:
+					sonuc = uzunluk*uzunluk*pi;
+					printf("Dairenin alani = %.0f",sonuc);
+					break;	
+			}
+			break;
+		default:
+			printf("Yanlis secim yaptiniz!!!");
+			break;
+	}
+	
+	
+}
+*/
+
 //-----------------------------------------------------------------------------
 /*
 #include <stdio.h>
