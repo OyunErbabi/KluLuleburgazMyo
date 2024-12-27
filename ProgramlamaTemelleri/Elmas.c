@@ -4,56 +4,54 @@
 
 main()
 {
-	int Buyukluk,i,j,k;
+	int Buyukluk,i,j;
 	printf("Buyuklugu giriniz :");
-	scanf("%d",&Buyukluk);		
+	scanf("%d",&Buyukluk);
 	
-	for(i=0;i<Buyukluk;i++)
-	{		
-		for(j=i;j<Buyukluk;j++)
-		{	
-			if(j==Buyukluk-1)
+	for(i=1;i<=Buyukluk*2;i++)
+	{	
+		//printf("i:%d - j:%d \t",i,j);
+		for(j=1;j<=Buyukluk*2;j++)
+		{		
+			if((j+i)-1==Buyukluk)
 			{
 				printf("/");
-			}	
+			}				
+			else if(j>Buyukluk && j<=Buyukluk*2 )
+			{	
+				if(j-i==Buyukluk)
+				{
+					printf("\\");
+				}
+				else
+				{
+					if((i-1)-Buyukluk == Buyukluk*2-j && i>Buyukluk)
+					{
+						printf("/");
+					}
+					else 
+					{
+						printf(" ");	
+					}
+				}
+			}
+			else if(i>Buyukluk)
+			{
+				if(i-j==Buyukluk)
+				{
+					printf("\\");
+				}
+				else
+				{
+					printf(" ");
+				}
+			}
 			else
 			{
 				printf(" ");
 			}
-		}					
-		
-		
-		for(j=0;j<=Buyukluk;j++)
-		{			
-			for(k=i;k<=Buyukluk;k++)
-			{
-				printf(" ");	
-			}
-			
-			printf("\\");
 		}
-		
-		/*
-		for(j=Buyukluk;j>Buyukluk;j--)
-		{	
-			if()
-			{
-				printf("/");
-			}	
-			else
-			{
-				printf(" ");
-			}
-		}						
-		*/
-		
-		
 		printf("\n");
-			
 	}
-	
-	
-	
-	
 }
 
