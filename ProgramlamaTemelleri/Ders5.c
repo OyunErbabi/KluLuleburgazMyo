@@ -1,4 +1,4 @@
-﻿/*Klavyeden girilen 10 adet sayidan en buyuk ve en kucuk olanlaribulan ve ekrana
+/*Klavyeden girilen 10 adet sayidan en buyuk ve en kucuk olanlaribulan ve ekrana
 yazdiran program (Sadece 1 tane klavyeden sayi giris satiri olacak)*/
 
 /*
