@@ -1,0 +1,7 @@
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\bin\Debug\Ornek_Hafta_1.exe.config
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\bin\Debug\Ornek_Hafta_1.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\bin\Debug\Ornek_Hafta_1.pdb
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\obj\Debug\Ornek_Hafta_1.csproj.AssemblyReference.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\obj\Debug\Ornek_Hafta_1.csproj.CoreCompileInputs.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\obj\Debug\Ornek_Hafta_1.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_1\Ornek_Hafta_1\obj\Debug\Ornek_Hafta_1.pdb
