@@ -1,0 +1,15 @@
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\bin\Debug\net6.0\Ornek_Hafta_2.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\bin\Debug\net6.0\Ornek_Hafta_2.deps.json
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\bin\Debug\net6.0\Ornek_Hafta_2.runtimeconfig.json
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\bin\Debug\net6.0\Ornek_Hafta_2.dll
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\bin\Debug\net6.0\Ornek_Hafta_2.pdb
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.AssemblyInfoInputs.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.AssemblyInfo.cs
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.csproj.CoreCompileInputs.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.sourcelink.json
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.dll
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\refint\Ornek_Hafta_2.dll
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.pdb
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\Ornek_Hafta_2.genruntimeconfig.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Ornek_Hafta_2\Ornek_Hafta_2\obj\Debug\net6.0\ref\Ornek_Hafta_2.dll

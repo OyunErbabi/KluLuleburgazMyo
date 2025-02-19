@@ -1,0 +1,7 @@
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\bin\Debug\Hafta2.exe.config
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\bin\Debug\Hafta2.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\bin\Debug\Hafta2.pdb
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.AssemblyReference.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.CoreCompileInputs.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\obj\Debug\Hafta2.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama\Hafta2\Hafta2\obj\Debug\Hafta2.pdb
