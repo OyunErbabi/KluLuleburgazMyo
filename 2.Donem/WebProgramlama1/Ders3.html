@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            table,tr,td,th
+            {
+                border: 5px solid rgb(17, 48, 185);
+                width: 380px;
+                font-size: 20px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        ---------------------Listeler---------------------       
+        
+        <hr>
+        <h2>Sırasız Listeler</h2>
+        <!--unorderedlist ul-->
+        <ul type ="circle">
+            <li>Meyveler</li>
+                <ul type ="disc">
+                    <li>Elma</li>
+                    <li>Armut</li>
+                    <li>Üzüm</li>
+                    <li>Portakal</li>
+                </ul>        
+            <li>Sebzeler</li>        
+            <ul type ="square">
+                <li>Pırasa</li>
+                <li>Ispanak</li>
+                <li>Karnıbahar</li>
+                <li>Lahana</li>
+            </ul>
+        </ul>
+        <!--orderedlist ul-->
+        
+        <h2>Sıralı Listeler</h2>
+        <hr>
+        <ol type="A">
+            <li>Sayısal Dersler</li>
+            <ol type="1">
+                <li>Matematik</li>
+                <li>Fizik</li>
+                <li>Kimya</li>
+                <Li>Biyoloji</Li>
+            </ol>
+            <li>Sözel Dersler</li>
+            <ol type="1" start="5">
+                <li>Türkçe</li>
+                <li>Tarih</li>
+                <li>Coğrafya</li>                
+            </ol>
+        </ol>
+        <h2>Tanım Listeleri</h2>
+        <!--descriptionlist dl-->
+        <dl>
+            <dt>Okul</dt>
+            <dd>KLU MYO</dd>
+            <dt>Dersler</dt>
+            <dd>Wep Prog - I</dd>
+            <dd>Nesne Tabanlı Programlama</dd>
+            <dd>Veri Tabanı - I</dd>
+        </dl>
+        <hr>
+        <h2>Tablolar</h2>
+        <!-- 
+
+        <table> Sayfaya tablo eklemek için kullanılır
+        <thead> Tablonun üst içeriğini ekler
+        <tbody> Tablonun gövde içeriklerini ekler
+        <tr> tablo içindeki satırları oluşturur
+        <td> tablo içindeki sütunları oluşturur
+        <th> tablo içindeki başlık hücrelerini belirler
+        <tfoot> tablonun en alt kısmını ekler
+        <colspan> Aynı satrıdaki hücreleri birleştirir
+        <rowspan> Aynı sütundaki hücreleri birleştirir
+        -->
+
+        <table border="1">
+            <tr>
+                <th>İsim</th>
+                <th>Soyisim</th>
+                <th>Meslek</th>
+                <th>Görev Yeri</th>
+            </tr>
+            <tr>
+                <td>Onur</td>
+                <td>Bulut</td>
+                <td>Öğr. Gör.</td>
+                <td>LMYO</td>
+            </tr>
+            <tr>
+                <td>Kamil</td>
+                <td>Demir</td>
+                <td>Öğr. Gör.</td>
+                <td>PMYO</td>
+            </tr>
+            <tr>
+                <td>Esra</td>
+                <td>Çakır</td>
+                <td>Öğr. Gör.</td>
+                <td>VMYO</td>
+            </tr>
+        </table>
+
+        <hr>
+        <table>
+            <thead>
+                <tr>
+                    <th>Sıra</th>
+                    <th>Günler</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1.</td>
+                    <td>Pazartesi</td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>Salı</td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td>Çarşamba</td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td>Perşembe</td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td>Cuma</td>
+                </tr>
+                <tr>
+                    <td>6.</td>
+                    <td>Cumartesi</td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td>Pazar</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <hr>
+        <table>
+            <tr>
+                <td rowspan="2">LMYO</td>
+                <td>LMYO</td>
+            </tr>
+            <tr>
+                <td>LMYO</td>
+            </tr>
+        </table>
+
+        <hr>
+        <table>
+            <tr>
+                <td>LMYO</td>
+                <td>LMYO</td>
+            </tr>
+            <tr>
+                <td colspan="2">LMYO</td>
+            </tr>
+        </table>
+        
+       
+    </body>
+</html>
