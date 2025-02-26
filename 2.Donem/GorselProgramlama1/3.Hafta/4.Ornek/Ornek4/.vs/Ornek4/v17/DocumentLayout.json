@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\3.Hafta\\4.Ornek\\Ornek4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{113A073D-2F21-4A02-BDD9-544846409886}|Ornek4\\Ornek4.csproj|C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\3.Hafta\\4.Ornek\\Ornek4\\ornek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113A073D-2F21-4A02-BDD9-544846409886}|Ornek4\\Ornek4.csproj|solutionrelative:ornek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113A073D-2F21-4A02-BDD9-544846409886}|Ornek4\\Ornek4.csproj|c:\\dotnetapps\\klu\\2.donem\\gorselprogramlama1\\3.hafta\\4.ornek\\ornek4\\ornek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{113A073D-2F21-4A02-BDD9-544846409886}|Ornek4\\Ornek4.csproj|solutionrelative:ornek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\3.Hafta\\4.Ornek\\Ornek4\\Ornek4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek4\\Form1.cs",
+              "ToolTip": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\3.Hafta\\4.Ornek\\Ornek4\\Ornek4\\Form1.cs",
+              "RelativeToolTip": "Ornek4\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:57:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\3.Hafta\\4.Ornek\\Ornek4\\Ornek4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek4\\Form1.cs",
+              "ToolTip": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\3.Hafta\\4.Ornek\\Ornek4\\Ornek4\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ornek4\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:55:43.879Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

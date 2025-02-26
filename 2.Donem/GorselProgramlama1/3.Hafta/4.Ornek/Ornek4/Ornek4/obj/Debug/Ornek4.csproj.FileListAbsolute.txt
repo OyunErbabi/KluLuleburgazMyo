@@ -1,0 +1,10 @@
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\bin\Debug\Ornek4.exe.config
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\bin\Debug\Ornek4.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\bin\Debug\Ornek4.pdb
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.csproj.AssemblyReference.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.Form1.resources
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.Properties.Resources.resources
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.csproj.GenerateResource.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.csproj.CoreCompileInputs.cache
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.exe
+C:\DotnetApps\KLU\2.Donem\GorselProgramlama1\3.Hafta\4.Ornek\Ornek4\Ornek4\obj\Debug\Ornek4.pdb
