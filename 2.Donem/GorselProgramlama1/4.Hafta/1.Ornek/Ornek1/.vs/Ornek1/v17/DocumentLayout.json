@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\4.Hafta\\1.Ornek\\Ornek1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DE5FC-6E35-4A39-9E9F-8BAB9602D142}|Ornek1\\Ornek1.csproj|c:\\dotnetapps\\klu\\2.donem\\gorselprogramlama1\\4.hafta\\1.ornek\\ornek1\\ornek1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DE5FC-6E35-4A39-9E9F-8BAB9602D142}|Ornek1\\Ornek1.csproj|solutionrelative:ornek1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\4.Hafta\\1.Ornek\\Ornek1\\Ornek1\\Program.cs",
+              "RelativeDocumentMoniker": "Ornek1\\Program.cs",
+              "ToolTip": "C:\\DotnetApps\\KLU\\2.Donem\\GorselProgramlama1\\4.Hafta\\1.Ornek\\Ornek1\\Ornek1\\Program.cs",
+              "RelativeToolTip": "Ornek1\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:05:22.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
