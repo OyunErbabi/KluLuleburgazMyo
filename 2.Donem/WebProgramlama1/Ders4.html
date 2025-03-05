@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Formlar</h3>
+    <hr>
+    <form>
+    <!--Input elemanı ile birlikte kullanılan öğeler
+        *Text
+        *Password
+        *Radio
+        *Checkbox
+        *Buton+
+        *Submit
+        *Reset
+        *File        
+    -->
+
+    <fieldset>
+        <legend>Kişisel Bilgiler</legend>
+    <label for="ad">Ad:</label><br>
+    <input type="text" id="ad" name="ad" placeholder="Adınızı Giriniz"><br>
+    <label for="soyad">Soyad:</label><br>
+    <input type="text" id="soyad" name="soyad" placeholder="Soyadınızı Giriniz"><br>
+
+    <label for="Sifre">Sifre:</label><br>
+    <input type="password" id="sifre" name="sifre" placeholder="Sifrenizi Giriniz"><br>
+
+    <h5>Cinsiyet</h5>
+    <label for="erkek">Erkek</label>
+    <input type="radio" name="cinsiyet" id="erkek" value="Erkek">
+    <label for="kadin">Kadin</label>
+    <input type="radio" name="cinsiyet" id="kadin" value="Kadın">
+
+    <h5>Hobileriniz</h5>
+    <input type="checkbox" id="yüzmek" name=" hobi" value="yuzmek" checked>
+    <label for="yüzmek">Yüzmek</label>
+    
+    <input type="checkbox" id="müzik" name=" hobi" value="muzik">
+    <label for="müzik">Müzik</label>    
+    
+    <input type="checkbox" id="kitap" name=" hobi" value="kitap">
+    <label for="kitap">Kitap</label>
+    <br>
+    <br>
+    <lAbel for="egitim">Eğitim Durumu:</lAbel>
+    
+    <select name="egitim" id="egitim" size="1">
+        <option value="lise">Lise</option>
+        <option value="on_Lisans">Ön Lisans</option>
+        <option value="Lisans"> Lisans</option>
+        <option value="yukesek_Lisans">Yüksek Lisans</option>        
+    </select>
+</fieldset>
+<fieldset>
+    <legend>Fikirler</legend>
+    <h5>Düşünceleriniz</h5>
+    <textarea name="dusunceler" id="dusunceler" cols="25" rows="6" placeholder="Bize iletmek istediklernizi yazınız"></textarea> <br>    
+    
+    <input type="submit" value="Gönder">
+    <input type="reset" value="Temizle">
+</fieldset>
+
+
+    </form>
+    
+</body>
+
+</html>
