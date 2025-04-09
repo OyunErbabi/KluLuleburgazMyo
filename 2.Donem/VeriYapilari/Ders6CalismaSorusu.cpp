@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 struct Personel
@@ -12,15 +12,15 @@ struct Personel
 
 void AnaMenu()
 {
-	cout<<"Lüleburgaz MYO Personel Kayýt Uygulamasý"<<endl<<endl;
+	cout<<"LÃ¼leburgaz MYO Personel KayÄ±t UygulamasÄ±"<<endl<<endl;
 	
-	cout<<"1- Yeni Kayýt Oluþtur"<<endl;
-	cout<<"2- Listenin Baþýndan Kayýt Sil"<<endl;
-	cout<<"3- Listenin Sonundan Kayýt Sil"<<endl;
+	cout<<"1- Yeni KayÄ±t OluÅŸtur"<<endl;
+	cout<<"2- Listenin BaÅŸÄ±ndan KayÄ±t Sil"<<endl;
+	cout<<"3- Listenin Sonundan KayÄ±t Sil"<<endl;
 	cout<<"4- Personel Ara"<<endl;
-	cout<<"5- Tüm Kayýtlý Personel Bilgilerini Getir"<<endl;
-	cout<<"0- Çýkýþ Yap"<<endl<<endl;	
-	cout<<"Seçiminiz: ";
+	cout<<"5- TÃ¼m KayÄ±tlÄ± Personel Bilgilerini Getir"<<endl;
+	cout<<"0- Ã‡Ä±kÄ±ÅŸ Yap"<<endl<<endl;	
+	cout<<"SeÃ§iminiz: ";
 }
 
 struct Personel*YeniKayit(struct Personel*head)
@@ -30,7 +30,7 @@ struct Personel*YeniKayit(struct Personel*head)
 	string _ad;
 	string _soyad;
 	float _maas;
-	cout<<"Kaydý yapýlacak personelin bilgilerini giriniz :"<<endl<<endl;
+	cout<<"KaydÄ± yapÄ±lacak personelin bilgilerini giriniz :"<<endl<<endl;
 	
 	for(int i=0;i<4;i++)
 		{
@@ -41,7 +41,7 @@ struct Personel*YeniKayit(struct Personel*head)
 					cin>>_numarasi;
 					break;
 				case 1:
-					cout<<"Adý\t:";
+					cout<<"AdÄ±\t:";
 					cin>>_ad;					
 					break;
 				case 2:
@@ -49,7 +49,7 @@ struct Personel*YeniKayit(struct Personel*head)
 					cin>>_soyad;
 					break;
 				case 3:
-					cout<<"Maaþ\t:";
+					cout<<"MaaÅŸ\t:";
 					cin>>_maas;
 					break;
 			}	
@@ -65,7 +65,7 @@ struct Personel*YeniKayit(struct Personel*head)
 	if(head==NULL)
 	{		
 		head=temp;
-		cout<<_numarasi<<" numaralý personel listedeki ilk kayda eklendi."<<endl<<endl;
+		cout<<_numarasi<<" numaralÄ± personel listedeki ilk kayda eklendi."<<endl<<endl;
 	}
 	else 
 	{
@@ -76,7 +76,7 @@ struct Personel*YeniKayit(struct Personel*head)
 			temp2=temp2->Next;
 		}
 		temp2->Next=temp;		
-		cout<<_numarasi<<" numaralý personel listedeki "<<sira<<". sýraya eklendi."<<endl<<endl;
+		cout<<_numarasi<<" numaralÄ± personel listedeki "<<sira<<". sÄ±raya eklendi."<<endl<<endl;
 	}
 	
 	return head;
@@ -87,14 +87,14 @@ void BilgileriGetir(struct Personel*head)
 	system("cls");
 	if(head==NULL)
 	{
-		cout<<"Yazdýrýlacak personel bilgisi bulunamadý. Liste Boþ!"<<endl<<endl;	
+		cout<<"YazdÄ±rÄ±lacak personel bilgisi bulunamadÄ±. Liste BoÅŸ!"<<endl<<endl;	
 	}
 	else 
 	{
 		struct Personel*temp=head;		
 		while(temp!=NULL)
 		{
-			cout<<temp->PersonelNo<<" numaralý personele ait bilgiler þöyledir:\n\nAd\t:"<<temp->PersonelAd<<endl<<"Soyad\t:"<<temp->PersonelSoyad<<endl<<"Maaþ\t:"<<temp->PersonelMaas<<endl<<endl;
+			cout<<temp->PersonelNo<<" numaralÄ± personele ait bilgiler ÅŸÃ¶yledir:\n\nAd\t:"<<temp->PersonelAd<<endl<<"Soyad\t:"<<temp->PersonelSoyad<<endl<<"MaaÅŸ\t:"<<temp->PersonelMaas<<endl<<endl;
 			temp=temp->Next;	
 		}
 	}
@@ -105,7 +105,7 @@ struct Personel*BastanKayitSil(struct Personel*head)
 	system("cls");
 	if(head==NULL)
 	{
-		cout<<"Kayýt Silinemedi: Liste Boþ!"<<endl<<endl;	
+		cout<<"KayÄ±t Silinemedi: Liste BoÅŸ!"<<endl<<endl;	
 	}	
 	else 
 	{
@@ -113,7 +113,7 @@ struct Personel*BastanKayitSil(struct Personel*head)
 		{
 			delete head;
 			head=NULL;
-			cout<<"Personel listesindeki ilk eleman silindi. Liste artýk boþ!"<<endl<<endl;
+			cout<<"Personel listesindeki ilk eleman silindi. Liste artÄ±k boÅŸ!"<<endl<<endl;
 		}
 		else 
 		{
@@ -131,7 +131,7 @@ struct Personel*SondanKayitSil(struct Personel*head)
 	system("cls");
 	if(head==NULL)
 	{
-		cout<<"Kayýt Silinemedi: Liste Boþ!"<<endl<<endl;	
+		cout<<"KayÄ±t Silinemedi: Liste BoÅŸ!"<<endl<<endl;	
 	}	
 	else 
 	{
@@ -139,7 +139,7 @@ struct Personel*SondanKayitSil(struct Personel*head)
 		{
 			delete head;
 			head=NULL;
-			cout<<"Personel listesindeki tek kayýt silindi. Liste artýk boþ!"<<endl<<endl;
+			cout<<"Personel listesindeki tek kayÄ±t silindi. Liste artÄ±k boÅŸ!"<<endl<<endl;
 		}
 		else 
 		{
@@ -151,7 +151,7 @@ struct Personel*SondanKayitSil(struct Personel*head)
 			struct Personel*temp2=temp;
 			delete temp->Next;
 			temp2->Next=NULL;
-			cout<<"Listenin sonundaki personel baþarýyla silindi."<<endl<<endl;
+			cout<<"Listenin sonundaki personel baÅŸarÄ±yla silindi."<<endl<<endl;
 		}
 	}
 	return head;
@@ -162,12 +162,12 @@ void PersonelAra(struct Personel*head)
 	system("cls");
 	if(head==NULL)
 	{
-		cout<<"Personel Listesi Boþ Arama Yapýlamaz"<<endl<<endl;
+		cout<<"Personel Listesi BoÅŸ Arama YapÄ±lamaz"<<endl<<endl;
 	}
 	else 
 	{
 		int _personelNo;
-		cout<<"Aramak istediðiniz personelin numarasýný girin: ";
+		cout<<"Aramak istediÄŸiniz personelin numarasÄ±nÄ± girin: ";
 		cin>>_personelNo;
 	
 		system("cls");
@@ -178,7 +178,7 @@ void PersonelAra(struct Personel*head)
 		{
 			if(_personelNo==temp->PersonelNo)
 			{
-				cout<<_personelNo<<" numaralý personele ait bilgiler þöyledir:\n\nAd\t:"<<temp->PersonelAd<<endl<<"Soyad\t:"<<temp->PersonelSoyad<<endl<<"Maaþ\t:"<<temp->PersonelMaas<<endl<<endl;
+				cout<<_personelNo<<" numaralÄ± personele ait bilgiler ÅŸÃ¶yledir:\n\nAd\t:"<<temp->PersonelAd<<endl<<"Soyad\t:"<<temp->PersonelSoyad<<endl<<"MaaÅŸ\t:"<<temp->PersonelMaas<<endl<<endl;
 				PersonelMevcut=true;
 				break;
 			}	
@@ -187,7 +187,7 @@ void PersonelAra(struct Personel*head)
 			
 		if(!PersonelMevcut)
 		{
-			cout<<"Aradýðýnýz numarada bir personel mevcut deðil!"<<endl<<endl;	
+			cout<<"AradÄ±ÄŸÄ±nÄ±z numarada bir personel mevcut deÄŸil!"<<endl<<endl;	
 		}
 	}
 }
