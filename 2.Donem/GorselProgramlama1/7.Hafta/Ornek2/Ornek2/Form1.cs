@@ -17,8 +17,14 @@ namespace Ornek2
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
         {
+            string[] dizi;
+            if(e.KeyCode == Keys.Enter)
+            {
+                dizi = textBox1.Text.Split(' ');// Girilen cümleyi boşluk karakterine göre ayırır ve diziye atar.
+                MessageBox.Show("Cümlenin Kelime Sayısı: "+dizi.Length.ToString());                
+            }
         }
     }
 }

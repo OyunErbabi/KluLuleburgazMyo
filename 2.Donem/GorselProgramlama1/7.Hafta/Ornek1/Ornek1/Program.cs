@@ -10,18 +10,20 @@ namespace Ornek1
     {
         static void Main(string[] args)
         {
-            string a, b,c;
-            a = "Bilgisayar";
-            b="Programcılığı";
-            Console.WriteLine(b);
             
+            string a = "Bilgisayar";
+            string b=string.Copy(a); // stringi kopyalar
+            string c="Programcılığı";
+            string d=String.Concat(a," ",c); // parametre olarak verilen stringleri birleştirir
+            string e = "Test";
+            e=string.Empty; // stringi boşaltır
 
-            c=String.Concat(a," ",b); // iki stringi birleştirir
-            Console.WriteLine(c);
 
-            b=string.Empty; // stringi boşaltır
-
-
+            Console.WriteLine(a); // Bilgisayar
+            Console.WriteLine(b); // Bilgisayar
+            Console.WriteLine(c); // Programcılığı
+            Console.WriteLine(d); // Bilgisayar Programcılığı
+            Console.WriteLine(e); // Boş string
 
             Console.ReadLine();
 

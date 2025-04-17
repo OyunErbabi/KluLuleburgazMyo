@@ -1,0 +1,10 @@
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\bin\Debug\Ornek4.exe.config
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\bin\Debug\Ornek4.exe
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\bin\Debug\Ornek4.pdb
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.csproj.AssemblyReference.cache
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.Form1.resources
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.Properties.Resources.resources
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.csproj.GenerateResource.cache
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.csproj.CoreCompileInputs.cache
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.exe
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\7.Hafta\Ornek4\Ornek4\obj\Debug\Ornek4.pdb
