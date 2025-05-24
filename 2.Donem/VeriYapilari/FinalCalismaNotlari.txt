@@ -1,5 +1,7 @@
-#include <iostream>
-using namespace std;
+Tek Yönlü Doğrusal Bağlı Liste
+-----------------------------------------------------------
+
+NODE YAPISI:
 
 struct node
 {
@@ -7,18 +9,21 @@ struct node
     struct node * next;
 };
 
-struct node*basaekle(int key, struct  node*head)
-{
+---------------------------
+
+BAŞA ELEMAN EKLEME:
+
+struct node*basaekle(int key, struct node*head){
     if(head==NULL)
     {
-        struct node*temp = new node();
+        struct node*temp=new node();
         temp->data=key;
         temp->next=NULL;
         head=temp;
     }
     else 
     {
-        struct node*temp = new node();
+        struct node*temp=new node();
         temp->data=key;
         temp->next=head;
         head=temp;
@@ -27,138 +32,124 @@ struct node*basaekle(int key, struct  node*head)
     return head;
 }
 
-struct node*sonaekle(int key,struct  node*head)
-{
-    
+
+---------------------------
+
+SONA ELEMAN EKLEME:
+
+struct node*sonaekle(int key, struct node*head){
     if(head==NULL)
     {
-        struct node*temp = new node();
+        struct node*temp=new node();
         temp->data=key;
         temp->next=NULL;
         head=temp;
     }
     else 
-    {   
-        struct node*temp = new node();        
+    {
+        struct node*temp=new node();
         temp->data=key;
         temp->next=NULL;
-        struct node*temp2=head;
+
+        struct node*temp2 = head;
+
         while(temp2->next!=NULL)
         {
             temp2=temp2->next;
         }
+
         temp2->next=temp;
     }
 
     return head;
-};
+}
 
-void yazdir(struct node*head)
-{
+
+---------------------------
+
+EKRANA VERİ YAZDIRMA
+
+void yazdir(struct node*head){
     system("cls");
-    if(head==NULL)
-    {
-        cout<<"Liste bos, yazdirilacak veri yok.";        
+    if(head==NULL){
+        cout<<"Liste boş yazdirilacak veri yok.";
     }
-    else
-    {
-        struct node*temp=head;
-        while (temp!=NULL)
-        {
-            cout<<temp->data<<" ";
-            temp=temp->next;
-        }
-    }
-}
-
-void bilgiyazdir(struct node*head)
-{
-    if(head==NULL)
-    {
-        cout<<"Liste bos, yazdirilacak veri yok.";  
-    }
-    else 
-    {
-        struct node*temp=head;
-        int i=1;
-        while (temp!=NULL)
-        {
-            cout<<i<<". dugumun verisi: "<<temp->data<<endl;
-            cout<<i<<". dugumun adresi "<<temp<<endl;
-            cout<<"Sonraki dugumun adresi: "<<temp->next<<endl;
-            temp=temp->next;
-            i++;
-        }
-    }
-}
-
-void ara(int aranan, struct node*head)
-{    
-    bool sonuc = false;
-    if(head==NULL)
-    {
-        cout<<"Liste bos, veri aranamaz.";
-    }
-    else 
-    {
-        int index=0;
+    else {
         struct node*temp=head;
         while(temp!=NULL)
         {
+            cout<<temp->data<<" Verisi yazdirildi"<<endl;
+            temp=temp->next;
+        }
+    }
+}
+
+---------------------------
+
+VERİ ARAMA
+
+void ara(int aranan, struct node*head){
+    bool sonuc=false;
+    if(head==NULL){
+        cout<<"Aranacak veri yok!"<<endl;
+    }
+    else {
+        int index=0;
+        struct node*temp = head;
+        while(temp!=NULL){
             index++;
-            if(temp->data=aranan)
+            if(temp->data == aranan)
             {
                 sonuc=true;
-                break;;
+                break;                
             }
             temp=temp->next;
         }
-        if(sonuc)
-        {
-            cout<<"Sayi var. Dugumdeki Sirasi: "<<index<<endl;
-        }
-        else
-        {
-            cout<<"Aranan sayi listede bulunmadi.";
-        }
 
+        if(sonuc){
+            cout<<"Sayi var "<<index<<". sirada"<<endl;
+        }
     }
 }
 
-int adet(struct node*head)
-{
-    int adet =0;
-    if(head==NULL)
-    {
-        cout<<"Liste Bos";
+---------------------------
+
+ADETİNİ BULMA
+
+int adet(struct node*head){
+    int adet=0;
+
+    if(head==NULL){
+        cout<<"Liste Boş.";
     }
-    else 
-    {
-        struct node*temp;
-        while (temp!=NULL)
-        {
+    else {
+        struct node*temp=head;
+        while(temp!=NULL){
             adet++;
             temp=temp->next;
         }
-        
+        return adet;
     }
-    return adet;
 }
 
-struct node*bastansil(struct node*head)
-{
-    if(head==NULL)
-    {
-        cout<<"Liste bos silinecek eleman yok.";
+
+---------------------------
+
+BASTAN ELEMAN SİLME
+
+struct node*bastansil(struct node*head){
+    if(head==NULL){
+        cout<<"Liste Bos"<<endl;
     }
-    else 
+    else
     {
-        if (head->next==NULL){
+        if(head->next==NULL)
+        {
             delete head;
             head=NULL;
-            cout<<"Listedeki tek dugum silindi.";
+            cout<<"Tüm liste silindi."<<endl;
         }
-        else 
+        else
         {
             struct node*temp=head->next;
             delete head;
@@ -166,23 +157,24 @@ struct node*bastansil(struct node*head)
         }
     }
     return head;
-};
+}
 
-struct node*sondansil(struct node*head)
-{
-    if(head==NULL)
-    {
-        cout<<"Dugum bos eleman silinmedi";
+---------------------------
+
+SONDAN ELEMAN SİLME
+
+struct node*sondansil(struct node*head){
+    if(head==NULL){
+        cout<<"Liste Bos"<<endl;
     }
-    else 
+    else
     {
-        if(head->next==NULL)
-        {
+        if(head->next==NULL){
             delete head;
             head=NULL;
-            cout<<"Listenin tek elemai silindi.";
+            cout<<"Listedeki tek eleman silindi";
         }
-        else
+        else 
         {
             struct node*temp=head;
             while(temp->next->next!=NULL)
@@ -192,11 +184,15 @@ struct node*sondansil(struct node*head)
             struct node*temp2=temp;
             delete temp->next;
             temp2->next=NULL;
-            cout<<"Listenin sonundaki dugum silindi..";
+            cout<<"Listenin sonundaki dügüm silindi"<<endl;
         }
     }
     return head;
 }
+
+---------------------------
+
+Main Fonksiyonu
 
 
 int main()
@@ -228,7 +224,7 @@ int main()
             head=basaekle(sayi,head);
             break;
             case 2:
-            cout<<"Sona eklenecek sayi :";
+            cout<<"Sona eklenecek say, :";
             cin>>sayi;
             head=sonaekle(sayi,head);
             break;
@@ -258,7 +254,4 @@ int main()
             return 0;
         }
     }
-
-
-
 }
