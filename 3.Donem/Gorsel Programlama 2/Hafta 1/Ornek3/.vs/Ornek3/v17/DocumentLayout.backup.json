@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 1\\Ornek3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392E9512-D7F8-4F0F-8B71-44155351C5C7}|Ornek3\\Ornek3.csproj|c:\\github\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 1\\ornek3\\ornek3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392E9512-D7F8-4F0F-8B71-44155351C5C7}|Ornek3\\Ornek3.csproj|solutionrelative:ornek3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392E9512-D7F8-4F0F-8B71-44155351C5C7}|Ornek3\\Ornek3.csproj|c:\\github\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 1\\ornek3\\ornek3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392E9512-D7F8-4F0F-8B71-44155351C5C7}|Ornek3\\Ornek3.csproj|solutionrelative:ornek3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 1\\Ornek3\\Ornek3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek3\\Form1.cs",
+              "ToolTip": "C:\\Github\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 1\\Ornek3\\Ornek3\\Form1.cs",
+              "RelativeToolTip": "Ornek3\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:07:27.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Github\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 1\\Ornek3\\Ornek3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek3\\Form1.cs",
+              "ToolTip": "C:\\Github\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 1\\Ornek3\\Ornek3\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ornek3\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:04:56.873Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
