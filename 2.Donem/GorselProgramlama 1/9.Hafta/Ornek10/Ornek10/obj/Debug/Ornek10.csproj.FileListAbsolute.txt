@@ -8,3 +8,4 @@ C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\9.Hafta\Ornek10\Orne
 C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\9.Hafta\Ornek10\Ornek10\obj\Debug\Ornek10.csproj.CoreCompileInputs.cache
 C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\9.Hafta\Ornek10\Ornek10\obj\Debug\Ornek10.exe
 C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\9.Hafta\Ornek10\Ornek10\obj\Debug\Ornek10.pdb
+C:\Github\Other\KluLuleburgazMyo\2.Donem\GorselProgramlama1\9.Hafta\Ornek10\Ornek10\obj\Debug\Ornek10.exe.config
