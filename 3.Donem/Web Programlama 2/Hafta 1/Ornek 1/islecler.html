@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>İşleçler</title>
+</head>
+<body>
+    <script>
+        let a = 26;
+        let b = 5;
+        
+        /*
+        a+=b;
+        a-=b;
+        a*=b;
+        a/=b;
+        */
+        a%=b; // mod > a = a % b
+        a**=b;
+        a++;
+        a--;
+
+        console.log(a);
+        console.log(a);
+
+
+        let sayi = window.prompt("Bir sayı giriniz:");
+        if (sayi % 2 == 0) {
+            document.write(sayi + " sayısı çifttir.");
+        } else {
+            document.write(sayi + " sayısı tektir.");
+        }
+    </script>
+</body>
+</html>
