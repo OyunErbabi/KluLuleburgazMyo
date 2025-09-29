@@ -1,0 +1,7 @@
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\bin\Debug\Ornek 3.exe.config
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\bin\Debug\Ornek 3.exe
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\bin\Debug\Ornek 3.pdb
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\obj\Debug\Ornek 3.csproj.AssemblyReference.cache
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\obj\Debug\Ornek 3.csproj.CoreCompileInputs.cache
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\obj\Debug\Ornek 3.exe
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 2\Ornek 3\Ornek 3\obj\Debug\Ornek 3.pdb

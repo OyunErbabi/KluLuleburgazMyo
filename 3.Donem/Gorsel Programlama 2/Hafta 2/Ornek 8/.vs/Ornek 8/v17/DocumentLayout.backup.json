@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F337B79-606E-407F-8648-32C2DE40E363}|Ornek 8\\Ornek 8.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 2\\ornek 8\\ornek 8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F337B79-606E-407F-8648-32C2DE40E363}|Ornek 8\\Ornek 8.csproj|solutionrelative:ornek 8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 8\\Ornek 8\\Class1.cs",
+              "RelativeDocumentMoniker": "Ornek 8\\Class1.cs",
+              "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 8\\Ornek 8\\Class1.cs",
+              "RelativeToolTip": "Ornek 8\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:27:23.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391BC312-8AE0-46DE-A451-A8EF1A545C89}|Ornek 6\\Ornek 6.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 2\\ornek 6\\ornek 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391BC312-8AE0-46DE-A451-A8EF1A545C89}|Ornek 6\\Ornek 6.csproj|solutionrelative:ornek 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391BC312-8AE0-46DE-A451-A8EF1A545C89}|Ornek 6\\Ornek 6.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 2\\ornek 6\\ornek 6\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391BC312-8AE0-46DE-A451-A8EF1A545C89}|Ornek 6\\Ornek 6.csproj|solutionrelative:ornek 6\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 6\\Ornek 6\\Class1.cs",
+              "RelativeDocumentMoniker": "Ornek 6\\Class1.cs",
+              "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 6\\Ornek 6\\Class1.cs",
+              "RelativeToolTip": "Ornek 6\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:49:00.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 6\\Ornek 6\\Program.cs",
+              "RelativeDocumentMoniker": "Ornek 6\\Program.cs",
+              "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 2\\Ornek 6\\Ornek 6\\Program.cs",
+              "RelativeToolTip": "Ornek 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:47:11.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
