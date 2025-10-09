@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>if_else.html</title>
+</head>
+<body>
+    <script>
+        /*
+        let yas = window.prompt("Lütfen yaşınızı giriniz:");
+
+        if (yas >= 18) {
+            document.write("Ehliyet alabilirsiniz.");
+        } 
+        else 
+        {
+            document.write("Ehliyet alamazsınız.");
+        }
+        */
+
+        /*
+        let not = window.prompt("Lütfen notunuzu giriniz:");
+
+        if(not>=85)
+        {
+            document.write(not+" Pekiyi");
+        }
+        else if(not>=70)
+        {
+            document.write(not+" iyi");
+        }
+        else if(not>=55)
+        {
+            document.write(not+" orta");
+        }
+        else if(not>=45)
+        {
+            document.write(not+" geçer");
+        }
+        else
+        {
+            document.write(not+" kaldı");    
+        }
+        */
+
+        /*
+        let gun = window.prompt("Sayı giriniz (1-7):");
+
+        switch (gun) {
+            case "1":
+                document.write("Pazartesi");
+                break;
+            case "2":
+                document.write("Salı");
+                break;
+            case "3":
+                document.write("Çarşamba");
+                break;
+            case "4":
+                document.write("Perşembe");
+                break;
+            case "5":
+                document.write("Cuma");
+                break;
+            case "6":
+                document.write("Cumartesi");
+                break;
+            case "7":
+                document.write("Pazar");
+                break;
+            default:
+                document.write("Geçersiz gün");
+                break;
+        }
+        */
+
+        let sayi1= window.prompt("1. sayıyı giriniz:");
+        let sayi2= window.prompt("2. sayıyı giriniz:");
+        let islem= window.prompt("Yapmak istediğiniz işlemi giriniz(+,-,*,/):");
+        
+        switch (islem) {
+            case "+":
+                document.write("Toplama işlemi sonucu: "+(Number(sayi1)+Number(sayi2)));
+                break;
+            case "-":
+                document.write("Çıkarma işlemi sonucu: "+(Number(sayi1)-Number(sayi2)));
+                break;
+            case "*":
+                document.write("Çarpma işlemi sonucu: "+(Number(sayi1)*Number(sayi2)));
+                break;
+            case "/":
+                if(sayi2==0)
+                {
+                    document.write("Bir sayı 0'a bölünemez.");
+                }
+                else
+                {
+                    document.write("Bölme işlemi sonucu: "+(Number(sayi1)/Number(sayi2)));
+                }
+                break;
+            default:
+                document.write("Geçersiz işlem");
+                break;
+        }
+
+
+    </script>
+</body>
+</html>
