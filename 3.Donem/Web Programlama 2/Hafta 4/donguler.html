@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /*
+        for(i=1; i<=5; i++)
+        {
+            for(j=1; j<=i; j++)
+            {
+                document.write("*");
+            }
+            document.write("<br>");
+        }
+    */
+        
+        //Onceki donemde yapılan elmas şekli
+        /*
+        Buyukluk = parseInt(prompt("Kare için büyüklük giriniz:"));
+
+        for(i=1;i<=Buyukluk*2;i++)
+	    {	
+		
+            for(j=1;j<=Buyukluk*2;j++)
+            {		
+                if((j+i)-1==Buyukluk)
+                {
+                    document.write("/");
+                }				
+                else if(j>Buyukluk && j<=Buyukluk*2 )
+                {	
+                    if(j-i==Buyukluk)
+                    {
+                        document.write("\\");
+                    }
+                    else
+                    {
+                        if((i-1)-Buyukluk == Buyukluk*2-j && i>Buyukluk)
+                        {
+                            document.write("/");
+                        }
+                        else 
+                        {
+                            document.write("&nbsp;");
+                        }
+                    }
+                }
+                else if(i>Buyukluk)
+                {
+                    if(i-j==Buyukluk)
+                    {
+                        document.write("\\");
+                    }
+                    else
+                    {					
+                        document.write("&nbsp;");
+                    }
+                }
+                else
+                {				
+                    document.write("&nbsp;");
+                }
+            }
+		
+            document.write("<br>");
+        }
+
+        */
+
+        /*
+        let sayi =1;
+        while(sayi<=10)
+        {
+            document.write(sayi + "<br>");
+            sayi++;
+        }
+        */
+
+        //let sayi = parseInt(prompt("Bir sayı giriniz:"));
+
+        /*
+        for(i=1; i<=sayi; i++)
+        {
+            if(i%3==0)
+            {
+                document.write(i + " sayısı 3'e bölünür.<br>");
+            }
+
+            if(i%5==0)
+            {
+                document.write(i + " sayısı 5'e bölünür.<br>");
+            }
+            
+        }
+            */
+
+
+        /*
+        let bas = parseInt(prompt("Başlangıç sayısını giriniz:"));
+        let son = parseInt(prompt("Bitiş sayısını giriniz:"));        
+
+        while(bas<=son)
+        {   
+            if(bas%3==0 && bas%5==0)
+            {
+                document.write(bas + " sayısı 3'e ve 5'e bölünür.<br>");
+            }
+            bas++;
+        }
+        */
+
+        /*
+        let sayi = parseInt(prompt("Bir sayı giriniz:"));
+        i=0;
+        do
+        {
+            document.write(i + "<br>");
+            i++;
+        }
+        while(i<=sayi);
+        */
+
+        let i=0;
+        for(i=1;i<=100;i++)
+        {         
+            if(i==13) //lanetli 13 sayısını atla
+            {
+                continue;
+            }
+            document.write(i + "<br>");
+        }
+
+
+
+    </script>
+</body>
+</html>
