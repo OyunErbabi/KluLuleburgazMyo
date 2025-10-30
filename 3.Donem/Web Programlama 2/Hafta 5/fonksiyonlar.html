@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Blank Page</title>
+</head>
+<body>
+    <script>
+        function selamla() {
+            alert("Merhaba!");
+        }
+        //selamla();
+
+        let kAdi;
+        let soyad;
+        let sehir;
+        let meslek;
+
+        function degerAl() {
+            kAdi = prompt("Kullanıcı Adınızı Giriniz:");
+            soyad = prompt("Soyadınızı Giriniz:");
+            sehir = prompt("Şehir Giriniz:");
+            meslek = prompt("Mesleğinizi Giriniz:");
+        }
+        function degerYazdir() {
+            document.write("<h2>Merhaba " + kAdi + " " + soyad + "</h2>");
+            document.write("<p>Şehir: " + sehir + "</p>");
+            document.write("<p>Meslek: " + meslek + "</p>");
+        }
+        degerAl();
+        degerYazdir();
+
+    </script>
+</body>
+</html>

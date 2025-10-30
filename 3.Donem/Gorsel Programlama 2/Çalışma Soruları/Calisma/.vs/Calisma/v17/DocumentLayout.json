@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E19C6C-6C4F-4C90-B917-BA814A9DAD33}|Calisma\\Calisma.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\\u00E7al\u0131\u015Fma sorular\u0131\\calisma\\calisma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E19C6C-6C4F-4C90-B917-BA814A9DAD33}|Calisma\\Calisma.csproj|solutionrelative:calisma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E19C6C-6C4F-4C90-B917-BA814A9DAD33}|Calisma\\Calisma.csproj|C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\calisma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5E19C6C-6C4F-4C90-B917-BA814A9DAD33}|Calisma\\Calisma.csproj|solutionrelative:calisma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E19C6C-6C4F-4C90-B917-BA814A9DAD33}|Calisma\\Calisma.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\\u00E7al\u0131\u015Fma sorular\u0131\\calisma\\calisma\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E19C6C-6C4F-4C90-B917-BA814A9DAD33}|Calisma\\Calisma.csproj|solutionrelative:calisma\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\Calisma\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calisma\\Form1.Designer.cs",
+              "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\Calisma\\Form1.Designer.cs",
+              "RelativeToolTip": "Calisma\\Form1.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwHIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:35:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\Calisma\\Form1.cs",
+              "RelativeDocumentMoniker": "Calisma\\Form1.cs",
+              "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\Calisma\\Form1.cs",
+              "RelativeToolTip": "Calisma\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:08:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\Calisma\\Form1.cs",
+              "RelativeDocumentMoniker": "Calisma\\Form1.cs",
+              "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\\u00C7al\u0131\u015Fma Sorular\u0131\\Calisma\\Calisma\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Calisma\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:04:22.253Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,3 +9,4 @@ C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 3\Ornek 1\Or
 C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 3\Ornek 1\Ornek 1\obj\x64\Debug\Ornek 1.csproj.CoreCompileInputs.cache
 C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 3\Ornek 1\Ornek 1\obj\x64\Debug\Ornek 1.exe
 C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 3\Ornek 1\Ornek 1\obj\x64\Debug\Ornek 1.pdb
+C:\Github\Other\KluLuleburgazMyo\3.Donem\Gorsel Programlama 2\Hafta 3\Ornek 1\Ornek 1\obj\x64\Debug\Ornek 1.exe.config

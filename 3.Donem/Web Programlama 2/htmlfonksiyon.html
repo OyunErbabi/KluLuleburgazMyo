@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>htmlfonksiyon</title>
+    <script>
+        function selamla() {
+            alert("Merhaba!");
+        }
+
+        function topla(a, b) 
+        {
+            let sonuc = a + b;
+            alert("Toplam: " + sonuc);
+        }
+        
+        let sayi1 = parseInt(prompt("Birinci sayıyı giriniz:"));
+        let sayi2 = parseInt(prompt("İkinci sayıyı giriniz:"));
+
+    </script>
+</head>
+<body>
+    <form action="">
+        <input type="button" value="Gönder" onclick="selamla()">
+        <br></br>
+        <input type="button" value="Topla" onclick="topla(sayi1, sayi2)">
+    </form>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Return</title>
+    <script>
+        function harfnotu(not) {
+            if (not >= 0 && not < 45) return "FF";
+            if (not >= 45 && not < 50) return "CC";
+            if (not >= 50 && not < 60) return "CB";
+            if (not >= 60 && not < 70) return "BB";
+            if (not >= 70 && not < 85) return "BA";
+            if (not >= 85 && not <= 100) return "AA";
+            return "Geçersiz Not";
+        }
+
+        let puan = parseInt(prompt("Notunuzu giriniz (0-100):"));
+        let harf = harfnotu(puan);
+        alert("Harf Notunuz: " + harf);
+
+    </script>
+</head>
+<body>
+    <!-- Empty HTML page -->
+</body>
+</html>
