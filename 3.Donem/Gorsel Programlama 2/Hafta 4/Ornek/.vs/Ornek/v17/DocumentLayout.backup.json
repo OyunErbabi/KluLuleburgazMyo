@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 4\\ornek\\ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|solutionrelative:ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 4\\ornek\\ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|solutionrelative:ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 4\\ornek\\ornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\ornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|solutionrelative:ornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\ornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|solutionrelative:ornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|c:\\github\\other\\klululeburgazmyo\\3.donem\\gorsel programlama 2\\hafta 4\\ornek\\ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|solutionrelative:ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71737CCE-B4F0-4094-8C29-41B884272563}|Ornek\\Ornek.csproj|solutionrelative:ornek\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,45 +34,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form2.cs",
               "RelativeDocumentMoniker": "Ornek\\Form2.cs",
               "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form2.cs",
               "RelativeToolTip": "Ornek\\Form2.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAD4vzkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T01:05:05.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form2.cs",
               "RelativeDocumentMoniker": "Ornek\\Form2.cs",
               "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form2.cs [Tasar\u0131m]",
               "RelativeToolTip": "Ornek\\Form2.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T01:03:53.019Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-10-30T01:03:53.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form1.cs",
               "RelativeDocumentMoniker": "Ornek\\Form1.cs",
               "ToolTip": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form1.cs",
               "RelativeToolTip": "Ornek\\Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAlwDMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwJsAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T23:54:35.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Github\\Other\\KluLuleburgazMyo\\3.Donem\\Gorsel Programlama 2\\Hafta 4\\Ornek\\Ornek\\Form1.cs",
               "RelativeDocumentMoniker": "Ornek\\Form1.cs",
